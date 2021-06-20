@@ -54,18 +54,4 @@ body {
   background-color: grey;
 }
 
-@media (max-width: 990px) {
-  .btn {
-    margin: 15px;
-    display: inline-block;
-    height: 150px;
-    width: 150px;
-    border: 7px solid black;
-    border-radius: 18%;
-
-  }
-  .container{
-    width: 50%;
-  }
-}
 
