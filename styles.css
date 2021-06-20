@@ -33,19 +33,6 @@ body {
   opacity: 0.8;
 }
 
-@media (max-width: 900px) {
-  .btn {
-    margin: 15px;
-    display: inline-block;
-    height: 150px;
-    width: 150px;
-    border: 7px solid black;
-    border-radius: 18%;
-
-  }
-}
-
-
 .red {
   background-color: red;
 }
@@ -66,3 +53,16 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+@media (max-width: 900px) {
+  .btn {
+    margin: 15px;
+    display: inline-block;
+    height: 150px;
+    width: 150px;
+    border: 7px solid black;
+    border-radius: 18%;
+
+  }
+}
+
