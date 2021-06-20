@@ -64,5 +64,8 @@ body {
     border-radius: 18%;
 
   }
+  .container{
+    width: 50%;
+  }
 }
 
